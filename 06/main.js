@@ -1,12 +1,11 @@
 let arr = []
-for(let i; ;i++ ){
-   
+for(let i; ; ){
     i = confirm("asd")
     if(i === false){
         break
     
     }
     else{
-    arr.unshift=prompt("adsa")
+        arr.unshift(prompt("arr add"))
     }
         }
