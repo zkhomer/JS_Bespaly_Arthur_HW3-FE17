@@ -20,5 +20,5 @@ function chess(w, h) {
         }
         result += '\n'
     }
-    return result;
+    return result
 }
