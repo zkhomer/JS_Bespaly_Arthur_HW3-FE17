@@ -1,7 +1,7 @@
 function figure(max) {
     if (max  <= 0 || max % 2 == 0) {
         alert("enter number")
-        return false;
+        return false
     }
     let result = ""
     for (let i = 1; i <= max; i += 2) {
