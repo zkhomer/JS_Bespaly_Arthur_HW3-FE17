@@ -5,3 +5,13 @@ function progres(end) {
     }
     return sum
 }
+
+
+
+
+
+
+
+
+
+
